@@ -10,6 +10,8 @@ int main() {
     cout << "  <head>\n";
     cout << "    <meta charset=\"utf-8\">\n";
     cout << "    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\n";
+    cout << "    <link rel="stylesheet" href="css/bootstrap.css">\n";
+    cout << "    <script src="js/bootstrap.js"></script>\n";
     cout << "    <title>Customer portal</title>\n";
     cout << "  </head>\n";
     cout << "  <body>\n";
