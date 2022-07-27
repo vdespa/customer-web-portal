@@ -15,7 +15,7 @@ int main() {
     cout << "    <title>Customer portal</title>\n";
     cout << "  </head>\n";
     cout << "  <body>\n";
-    cout << "    <h1>Hello, world!</h1>\n";
+    cout << "    <h1>Customer Web Portal</h1>\n";
     cout << "    <p>Important links:</p>\n";
     cout << "      <ul>\n";
     cout << "        <li><a href=\"#\">Link #1</a></li>\n";
