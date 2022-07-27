@@ -19,6 +19,7 @@ int main() {
     cout << "    <p>Important links:</p>\n";
     cout << "      <ul>\n";
     cout << "        <li><a href=\"/login\">Login</a></li>\n";
+    cout << "        <li><a href=\"/refund\">Refund</a></li>\n";    
     cout << "      </ul>\n";
     cout << "  </body>\n";
     cout << "</html>\n";
