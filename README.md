@@ -1,6 +1,6 @@
 # Customer Web Portal
 
-This is the web application that customer use to manager their account.
+This is the web application that customer use to manage their account.
 
 ## Compilation
 
